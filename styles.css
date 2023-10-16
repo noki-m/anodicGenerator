@@ -79,8 +79,8 @@ button:hover {
 }
 
 textarea {
-  width: 50%;
-  min-width: 400px;
+  width: 90%;
+  max-width: 500px;
   padding: 8px 10px;
   border: 1px solid #969da3;
   border-radius: 3px;
